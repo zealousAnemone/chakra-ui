@@ -1,5 +1,17 @@
 # Change Log
 
+## 2.1.3
+
+### Patch Changes
+
+- [`4841d36e1`](https://github.com/chakra-ui/chakra-ui/commit/4841d36e16e855f34a47e9624853055741c479f7)
+  [#4862](https://github.com/chakra-ui/chakra-ui/pull/4862) Thanks
+  [@mbrookson](https://github.com/mbrookson)! - Fix Switch colourScheme docs
+
+- Updated dependencies []:
+  - @chakra-ui/react@1.6.11
+  - @chakra-ui/props-docs@1.0.36
+
 ## 2.1.2
 
 ### Patch Changes

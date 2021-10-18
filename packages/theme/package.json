@@ -61,6 +61,6 @@
   },
   "devDependencies": {
     "@chakra-ui/cli": "1.5.3",
-    "@chakra-ui/system": "1.7.4"
+    "@chakra-ui/system": "1.7.5"
   }
 }
